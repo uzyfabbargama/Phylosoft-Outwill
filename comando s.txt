@@ -1,0 +1,18 @@
+preset: piramide, S, 8
+mov: S21, 4
+act: S21
+mov: S22, 3
+act: S22
+bif: S21 = S11, S31
+bif: S22 = S12, S32
+fusion: S11, S12 -> S13
+fus: S21, S22, 2
+loop: S21, 3
+nop: S22
+out: S11
+out: S21
+ruta: S11 -> S31 activa
+topo: S21
+guar
+carg
+reset
