@@ -1,5 +1,14 @@
 # 🧠 Bynarium — imagine one AI in 1KB
 
+
+> Una IA simbólica. Sin entrenamiento. Sin redes profundas.  
+> Solo lógica estructural, expansión fractal y pensamiento por cajas binarias.  
+> Construida como si el papel, las cartas y el cerebro pudieran programar.
+
+🧬 _"GPT necesita millones de ejemplos. Bynarium necesita estructura."_
+
+🚀 Comienza con comandos como `crea`, `comb`, `act` y observa cómo las neuronas se estructuran por sí mismas.
+
 ## 📌 Título del proyecto
 **Bynarium**  
 Un modelo de inteligencia artificial simbólica desde cero, sin pesos, sin retropropagación, explicable, ligera, y estructuralmente creativa.
