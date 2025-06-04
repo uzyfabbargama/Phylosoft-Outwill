@@ -1,0 +1,714 @@
+{
+    "P11": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P21"
+        ]
+    },
+    "P12": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P21"
+        ]
+    },
+    "P13": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P22"
+        ]
+    },
+    "P14": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P22"
+        ]
+    },
+    "P15": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P23"
+        ]
+    },
+    "P16": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P23"
+        ]
+    },
+    "P17": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P24"
+        ]
+    },
+    "P18": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P24"
+        ]
+    },
+    "P19": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P25"
+        ]
+    },
+    "P110": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P25"
+        ]
+    },
+    "P111": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P26"
+        ]
+    },
+    "P112": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P26"
+        ]
+    },
+    "P113": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P27"
+        ]
+    },
+    "P114": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P27"
+        ]
+    },
+    "P115": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P28"
+        ]
+    },
+    "P116": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P28"
+        ]
+    },
+    "P117": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P29"
+        ]
+    },
+    "P118": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P29"
+        ]
+    },
+    "P119": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P210"
+        ]
+    },
+    "P120": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P210"
+        ]
+    },
+    "P121": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P211"
+        ]
+    },
+    "P122": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P211"
+        ]
+    },
+    "P123": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P212"
+        ]
+    },
+    "P124": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P212"
+        ]
+    },
+    "P125": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P213"
+        ]
+    },
+    "P126": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P213"
+        ]
+    },
+    "P127": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P214"
+        ]
+    },
+    "P128": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P214"
+        ]
+    },
+    "P129": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P215"
+        ]
+    },
+    "P130": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P215"
+        ]
+    },
+    "P131": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P216"
+        ]
+    },
+    "P132": {
+        "bits": 2,
+        "formula_limit_n": 1,
+        "max_activations_capacity_val": 1,
+        "max_activations_capacity_str": "1",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "00",
+        "connections_out": [
+            "P216"
+        ]
+    },
+    "P21": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P31"
+        ]
+    },
+    "P22": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P31"
+        ]
+    },
+    "P23": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P32"
+        ]
+    },
+    "P24": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P32"
+        ]
+    },
+    "P25": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P33"
+        ]
+    },
+    "P26": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P33"
+        ]
+    },
+    "P27": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P34"
+        ]
+    },
+    "P28": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P34"
+        ]
+    },
+    "P29": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P35"
+        ]
+    },
+    "P210": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P35"
+        ]
+    },
+    "P211": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P36"
+        ]
+    },
+    "P212": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P36"
+        ]
+    },
+    "P213": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P37"
+        ]
+    },
+    "P214": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P37"
+        ]
+    },
+    "P215": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P38"
+        ]
+    },
+    "P216": {
+        "bits": 3,
+        "formula_limit_n": 2,
+        "max_activations_capacity_val": 2,
+        "max_activations_capacity_str": "2",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "000",
+        "connections_out": [
+            "P38"
+        ]
+    },
+    "P31": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P32": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P33": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P34": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P35": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P36": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P37": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    },
+    "P38": {
+        "bits": 4,
+        "formula_limit_n": 3,
+        "max_activations_capacity_val": 4,
+        "max_activations_capacity_str": "1+3",
+        "current_activations_val": 0,
+        "current_activations_str": "0",
+        "valor_decimal": 0,
+        "valor_binario_str": "0000",
+        "connections_out": []
+    }
+}

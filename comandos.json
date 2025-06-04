@@ -1,0 +1,4 @@
+preset: piramide, s, 8
+mov: s21, 4
+bif: s21 = s11, s31
+
