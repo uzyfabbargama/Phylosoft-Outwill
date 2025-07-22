@@ -10,14 +10,14 @@
 🚀 Comienza con comandos como `crea`, `comb`, `act` y observa cómo las neuronas se estructuran por sí mismas.
 
 ## 📌 Título del proyecto
-**Bynarium**  
+**Phylosoft Outwill**  
 Un modelo de inteligencia artificial simbólica desde cero, sin pesos, sin retropropagación, explicable, ligera, y estructuralmente creativa.
 
 ---
 
 ## 🚀 ¿Qué es y qué hace?
 
-**Bynarium** es un paradigma inédito de IA, que no depende de grandes datos ni de entrenamiento por error. Su lógica se basa en:
+**Phylosoft Outwill** es un paradigma inédito de IA, que no depende de grandes datos ni de entrenamiento por error. Su lógica se basa en:
 
 - Estructuras binarias condicionales (`1`, `0`, `N/A`)
 - Reglas que generan semántica desde la forma
@@ -32,7 +32,7 @@ La **estructura crea significado**, y eso es lo que lo vuelve poderoso.
 ## ⚙️ Cómo instalar o ejecutar
 
 - Requiere solo **Python**.
-- No usa librerías externas.
+- No usa librerías externas (solo pygame).
 - No necesita archivos ni datos externos.
 
 Simplemente clona el repositorio y ejecuta:
