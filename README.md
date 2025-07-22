@@ -1,4 +1,4 @@
-# 🧠 Bynarium — imagine one AI in 1KB
+# 🧠 Phylosoft Outwill — imagine one AI in 1KB (Before Bynarium)
 
 
 > Una IA simbólica. Sin entrenamiento. Sin redes profundas.  
